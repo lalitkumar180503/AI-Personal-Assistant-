@@ -1,2 +1,3 @@
 # AI-Personal-Assistant-
-A Python-based conversational AI assistant powered by the OpenAI API.  Copy description
+A Python-based AI assistant using the OpenAI API for query answering, email summarization, image generation, and image editing.
+ Copy
